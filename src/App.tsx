@@ -5,8 +5,6 @@ import Navbar from './components/Navbar';
 import First from './components/first';
 import Hero from './components/Hero';
 import About from './components/About';
-import TechStack from './components/TechStack';
-import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Education from './components/Education';
 import Certificate from './components/Certificate';
@@ -75,5 +73,6 @@ function App() {
 }
 
 export default App;
+
 
 
