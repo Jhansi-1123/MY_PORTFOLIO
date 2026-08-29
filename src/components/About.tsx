@@ -87,10 +87,10 @@ const About: React.FC = () => {
           }}>
             <ul style={{ listStyle: 'none', padding: 0, color: 'white', display: 'flex', flexDirection: 'column', gap: '30px' }}>
               <li style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
-                <span style={{ color: '#ec4899' }}>⚡</span> B.Tech 3rd Year
+                <span style={{ color: '#ec4899' }}>⚡</span> B.Tech 4th Year
               </li>
               <li style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
-                <span style={{ color: '#ec4899' }}>⚡</span> CGPA: 8.5/10
+                <span style={{ color: '#ec4899' }}>⚡</span> CGPA: 8/10
               </li>
               <li style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
                 <span style={{ color: '#ec4899' }}>⚡</span> Tech Enthusiast
