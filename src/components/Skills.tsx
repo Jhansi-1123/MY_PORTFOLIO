@@ -67,9 +67,9 @@ const TechStack: React.FC = () => {
       title: "Programming",
       color: "#10b981",
       skills: [
-        { name: "C-Language", level: "95%" }, 
+        { name: "Python", level: "95%" }, 
         { name: "Java", level: "90%" }, 
-        { name: "SQL", level: "70%" }
+        { name: "C-Language", level: "70%" }
       ]
     },
     {
